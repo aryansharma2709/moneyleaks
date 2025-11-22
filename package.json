@@ -2,12 +2,14 @@
   "name": "moneyleaks",
   "version": "0.1.0",
   "private": true,
+  
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+   "dev": "next dev --webpack",
+  "build": "next build --webpack",
+  "start": "next start",
+  "lint": "next lint"
   },
+  
   "dependencies": {
     "next": "16.0.3",
     "pdf-parse": "^2.4.5",
