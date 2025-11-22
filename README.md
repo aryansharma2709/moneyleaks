@@ -67,6 +67,19 @@ Upload your **bank / UPI / card statement** as CSV or PDF and the app will:
 
 ---
 
+<img width="1891" height="872" alt="image" src="https://github.com/user-attachments/assets/de6eec04-de48-49b9-9c9a-85d26ee3ad4e" />
+
+<img width="1861" height="670" alt="image" src="https://github.com/user-attachments/assets/2b23b122-cb28-49f2-a910-43db43bb8902" />
+
+<img width="1726" height="550" alt="image" src="https://github.com/user-attachments/assets/a53cd3c7-0e1d-4154-8049-c9a0da2a27ed" />
+
+<img width="1754" height="810" alt="image" src="https://github.com/user-attachments/assets/df8da3dc-16d1-4a80-81a7-ab67c0c9eeb3" />
+
+<img width="1847" height="680" alt="image" src="https://github.com/user-attachments/assets/f7309622-91e3-4d5e-a059-0e89d33706a7" />
+
+<img width="1864" height="392" alt="image" src="https://github.com/user-attachments/assets/e0196d85-eaa5-4ab1-9021-cc1c9000c298" />
+
+
 ## 📂 Project Structure
 
 Monorepo layout:
@@ -86,18 +99,6 @@ moneyleaks/               # Repo root (Next.js app)
     main.py               # All backend logic + routes
     requirements.txt
     ...
-
-<img width="1891" height="872" alt="image" src="https://github.com/user-attachments/assets/de6eec04-de48-49b9-9c9a-85d26ee3ad4e" />
-
-<img width="1861" height="670" alt="image" src="https://github.com/user-attachments/assets/2b23b122-cb28-49f2-a910-43db43bb8902" />
-
-<img width="1726" height="550" alt="image" src="https://github.com/user-attachments/assets/a53cd3c7-0e1d-4154-8049-c9a0da2a27ed" />
-
-<img width="1754" height="810" alt="image" src="https://github.com/user-attachments/assets/df8da3dc-16d1-4a80-81a7-ab67c0c9eeb3" />
-
-<img width="1847" height="680" alt="image" src="https://github.com/user-attachments/assets/f7309622-91e3-4d5e-a059-0e89d33706a7" />
-
-<img width="1864" height="392" alt="image" src="https://github.com/user-attachments/assets/e0196d85-eaa5-4ab1-9021-cc1c9000c298" />
 
 
 
